@@ -14,13 +14,13 @@
   "license": "MIT",
   "repository": "https://github.com/runoshun/onetab-sync",
   "dependencies": {
-    "babel-runtime": "^6.26.0",
-    "commander": "^2.11.0",
-    "gists": "^1.0.0",
-    "inquirer": "^3.3.0",
+    "babel-runtime": "^7.22.5",
+    "commander": "^11.0.0",
+    "gists": "^2.0.0",
+    "inquirer": "^9.2.7",
     "leveldown": "^2.0.0",
-    "levelup": "^2.0.0",
-    "sqlite3": "^3.1.13"
+    "levelup": "^6.1.1",
+    "sqlite3": "^5.1.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
