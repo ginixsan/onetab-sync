@@ -14,7 +14,6 @@
   "license": "MIT",
   "repository": "https://github.com/runoshun/onetab-sync",
   "dependencies": {
-    "babel-runtime": "^7.19.0",
     "commander": "^11.0.0",
     "gists": "^2.0.0",
     "inquirer": "^9.2.7",
